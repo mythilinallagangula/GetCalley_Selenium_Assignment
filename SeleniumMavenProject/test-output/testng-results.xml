@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T23:46:40 IST" name="Default suite" finished-at="2024-03-12T23:47:32 IST" duration-ms="52400">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T23:46:40 IST" name="Default test" finished-at="2024-03-12T23:47:32 IST" duration-ms="52400">
+      <class name="com.TestCases.OperationPerformenceTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.TestCases.OperationPerformenceTest@1e04fa0a]" started-at="2024-03-12T23:46:40 IST" name="openBrowser" finished-at="2024-03-12T23:47:21 IST" duration-ms="40813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="toolsQAOpearation_Test()[pri:0, instance:com.TestCases.OperationPerformenceTest@1e04fa0a]" started-at="2024-03-12T23:47:21 IST" name="toolsQAOpearation_Test" finished-at="2024-03-12T23:47:32 IST" duration-ms="11501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolsQAOpearation_Test -->
+      </class> <!-- com.TestCases.OperationPerformenceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
